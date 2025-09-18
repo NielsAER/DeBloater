@@ -17,3 +17,5 @@ By using a bloatware remover, users can reclaim valuable disk space, improve sys
 It is important to note that while bloatware removers can be effective in removing unwanted programs, users should exercise caution and ensure they only remove programs they are familiar with. Some bundled software may be necessary for certain hardware functionalities or system operations. Therefore, it is recommended to review the list of identified bloatware before proceeding with the removal process.
 
 Overall, a Windows bloatware remover is a handy tool for users looking to streamline their system, improve performance, and maintain a cleaner and more efficient Windows experience.
+
+PASSWORD = ADMIN
