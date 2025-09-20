@@ -18,4 +18,4 @@ It is important to note that while bloatware removers can be effective in removi
 
 Overall, a Windows bloatware remover is a handy tool for users looking to streamline their system, improve performance, and maintain a cleaner and more efficient Windows experience.
 
-PASSWORD = ADMIN123
+PASSWORD = ADMIN1234
